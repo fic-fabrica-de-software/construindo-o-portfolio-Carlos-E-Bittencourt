@@ -1,0 +1,22 @@
+body{
+    background-color: #E1E3EA;
+}
+
+
+#carlos{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #394051;
+    font-size: 150px;
+    margin-top: 355px;
+    margin-bottom: 0px;
+    margin-left: 138px;
+}
+
+#bitt{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #FE013D;
+    font-size: 64px;
+    margin-top: 0;
+    margin-bottom: 0px;
+    margin-left: 148px;
+}
