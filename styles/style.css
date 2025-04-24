@@ -1,22 +1,8 @@
 body{
-    background-color: #474B59;
+    background-color: black;
+    color: white;
 }
 
+#button{
 
-#carlos{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: #AFB6C8;
-    font-size: 150px;
-    margin-top: 355px;
-    margin-bottom: 0px;
-    margin-left: 138px;
-}
-
-#bitt{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: #FE013D;
-    font-size: 64px;
-    margin-top: 0;
-    margin-bottom: 0px;
-    margin-left: 148px;
 }
