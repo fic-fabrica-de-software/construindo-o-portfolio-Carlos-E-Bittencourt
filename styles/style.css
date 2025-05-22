@@ -6,3 +6,9 @@ body{
 #button{
 
 }
+
+#comand{
+    background-color: black;
+    border: none;
+    color: white;
+}
