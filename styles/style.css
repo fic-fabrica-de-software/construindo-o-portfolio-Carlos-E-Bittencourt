@@ -4,11 +4,6 @@ body{
 }
 
 #button{
-
-}
-
-#comand{
-    background-color: black;
-    border: none;
-    color: white;
+    justify-content: center;
+    align-items: center;
 }
