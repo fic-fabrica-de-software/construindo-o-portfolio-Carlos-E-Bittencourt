@@ -1,4 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
 body{
+    background-color: black;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+}
+
+
+.flex{
+    display: flex;
+}
+
+.inicial{
+    display: flex;
+    justify-content: space-between;
+}
+
+.access{
     background-color: black;
     margin: 0;
     height: 100vh;
@@ -15,4 +32,29 @@ body{
     border: solid 2px #808080;
     background-color: black;
     color: white;
+}
+
+#cadu{
+    width: 800px;
+    height: 800px;
+    
+}
+
+.navbar{
+    font-size: 30px;
+}
+
+.menu{
+    font-size: 30px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    transition: color 0.3s, font-size 0.4s;
+}
+
+.links:hover{
+    color: gray;
+    font-size: 120%;
 }
