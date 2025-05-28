@@ -12,7 +12,7 @@ body{
 #button{
     height: 60px;
     width: 300px;
-    border: solid 2px gray;
+    border: solid 2px #808080;
     background-color: black;
     color: white;
 }
