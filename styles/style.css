@@ -45,7 +45,7 @@ body{
 }
 
 .menu{
-    font-size: 30px;
+    font-size: 40px;
 }
 
 a{
@@ -55,6 +55,11 @@ a{
 }
 
 .links:hover{
-    color: gray;
-    font-size: 120%;
+    color: black;
+    font-size: 200%;
+    text-shadow: 1px 1px 0 white, -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white;
+}
+
+.apresen{
+    font-size: 20px;
 }
